@@ -1,0 +1,13 @@
+package utility;
+
+import org.openqa.selenium.WebDriver;
+
+public class TestContext
+{
+
+	WebDriver driver;
+	public String searchPageProductName;
+	public String offerPageProductName;
+	
+	
+}
